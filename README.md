@@ -1,3 +1,4 @@
 # Amplitude-Calculator
-This is a calculator for Amplitudes of Sinus Waves for Audition. 
-It's not completely finished and only the german version of it is available, since I mainly use it for school.
+This is a calculator, that determines the amplitudes of sinusoidal waves for audio applications. 
+It’s not fully finished, and currently, only the German version is available, as I mainly use it for school.
+
